@@ -20,7 +20,7 @@ This is a simple and fun **Rock Paper Scissors** game built using **HTML**, **CS
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
